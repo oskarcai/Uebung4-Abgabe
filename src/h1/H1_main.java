@@ -5,6 +5,8 @@ public class H1_main {
         int zone = 5;
         double price = 0;
 
+        price = 0;
+
         switch(zone) {
             case 1:
                 price = 2;
