@@ -8,8 +8,7 @@ public class H3_main {
         fahrenheitFloat = celsiusFloat * 9/5 + 32;
         fahrenheitDouble = celsiusDouble * 9/5 + 32;
 
-        System.out.println(celsiusFloat + " Celsius = " + fahrenheitFloat + "[Float-Datentyp]");
-        System.out.println(celsiusDouble + " Celsius = " + fahrenheitDouble + "[Double-Datentyp]");
-
+        System.out.println(celsiusFloat + " Grad Celsius = " + fahrenheitFloat + " Grad Fahrenheit [Float-Datentyp]");
+        System.out.println(celsiusDouble + " Grad Celsius = " + fahrenheitDouble + " Grad Fahrenheit [Double-Datentyp]");
     }
 }

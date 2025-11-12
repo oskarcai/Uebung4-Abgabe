@@ -16,7 +16,11 @@ public class H2_main {
         b = E1 || E3;
         c = (x && !y) || (!x && !y);
 
-        System.out.println("x: " + x + " y: " + y + " a: " + a + " b: " + b + " c: " + c);
+        System.out.println("x: " + x);
+        System.out.println("y: " + y);
+        System.out.println("a: " + a);
+        System.out.println("b: " + b);
+        System.out.println("c: " + c);
     }
 }
 
